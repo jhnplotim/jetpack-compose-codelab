@@ -1,2 +1,5 @@
 # jetpack-compose-codelab
-https://developer.android.com/codelabs/jetpack-compose-basics#13
+
+Jetpack compose codelab based on the following tutorial
+
+https://developer.android.com/codelabs/jetpack-compose-basics
